@@ -1,0 +1,31 @@
+[
+    {
+      "subject":  "Message info!!",
+      "body" : "L'information au quotidien en continu et en vidéo. L'actualité nationale internationale, politique, économique, high-tech, cinéma, people, insolite, sciences et ..."
+    },
+    {
+      "subject":  "Message de flutter !!",
+      "body" :"Flutter est le SDK d'application mobile, framework créé par Google, pour la création d'interfaces natives de haute qualité sur iOS et Android en un temps record."
+    },
+    {
+      "subject" : "Message de Java",
+      "body" : "java est une technique informatique développée initialement par Sun Microsystems puis acquise par Oracle suite au rachat de l'entreprise."
+    },
+    {
+      "subject" : "Message de python",
+      "body" :"Python est un langage de programmation interprété, multi-paradigme et multiplateformes. Il favorise la programmation impérative structurée, fonctionnelle et orientée objet."
+    },
+    {
+      "subject" : "Message de php",
+      "body" : "PHP: Hypertext Preprocessor, plus connu sous son sigle PHP, est un langage de programmation libre, principalement utilisé pour produire des pages Web dynamiques via un serveur HTTP,"
+  
+    },
+    {
+      "subject":  "Message info!!",
+      "body" : "L'information au quotidien en continu et en vidéo. L'actualité nationale internationale, politique, économique, high-tech, cinéma, people, insolite, sciences et ..."
+    },
+    {
+      "subject":  "Message de flutter !!",
+      "body" :"Flutter est le SDK d'application mobile, framework créé par Google, pour la création d'interfaces natives de haute qualité sur iOS et Android en un temps record."
+    }
+]
